@@ -29,13 +29,10 @@ T Encrypted Letter |C|Rogue| |QID|3102| |R|Human|
 T Simple Letter |C|Warrior| |QID|3100| |R|Human|
 T Hallowed Letter |C|Priest| |QID|3103| |R|Human|
 T Tainted Letter |C|Warlock| |QID|3105| |R|Human|
-A The Stolen Tome |C|Warlock| |QID|1598| |R|Human|
 
 C Investigate Echo Ridge |N|Back at the kobold camps| |QID|15|
-C The Stolen Tome |N|The book is on the ground next to the tent (56.7, 44.0)| |C|Warlock| |QID|1598| |R|Human|
 C Brotherhood of Thieves |N|East of the abbey across bridge| |QID|18|
 
-T The Stolen Tome |C|Warlock| |QID|1598| |R|Human|
 T Brotherhood of Thieves |QID|18|
 A Milly Osworth |QID|3903|
 A Bounty on Garrick Padfoot |QID|6|
@@ -135,7 +132,7 @@ T Red Linen Goods |QID|83|
 H Goldshire |SZ|Lion's Pride Inn|
 A Speak with Jennea |C|Mage| |QID|1860| |R|Human|
 A Seek out SI: 7 |C|Rogue| |QID|2205| |R|Human|
-A Gakin's Summons |C|Warlock| |QID|1717| |R|Human|
+A Gakin's Summons |C|Warlock| |QID|1685| |R|Human|
 T Collecting Kelp |QID|112|
 A The Escape |QID|114|
 T Deliver Thomas' Report |QID|39|
@@ -157,8 +154,8 @@ R Westfall
 A Furlbrow's Deed |U|1972| |O| |QID|184|
 T Furlbrow's Deed |O| |QID|184|
 A Report to Gryan Stoutmantle |QID|109|
-A Westfall Stew |QID|38|
-T Westfall Stew |N|Follow the road south to Saldean's Farm (56.41, 30.53)| |Z|Westfall| |QID|38|
+A Westfall Stew |QID|36|
+T Westfall Stew |N|Follow the road south to Saldean's Farm (56.41, 30.53)| |Z|Westfall| |QID|36|
 T Report to Gryan Stoutmantle |N|South at Sentinel Hill, in front of the tower| |QID|109|
 A A Swift Message |N|Inside the tower| |R|Human| |QID|6181|
 T A Swift Message |R|Human| |QID|6181|
@@ -177,7 +174,7 @@ T Package for Thurman |N|In the Mage Quarter at Larson Clothiers (42.48, 76.28)|
 T Speak with Jennea |N|In the Mage Quarter| |C|Mage| |QID|1860| |R|Human|
 A Mirror Lake |C|Mage| |QID|1861| |R|Human|
 
-T Gakin's Summons |N|In the Mage Quarter| |C|Warlock| |QID|1717| |R|Human|
+T Gakin's Summons |N|In the Mage Quarter| |C|Warlock| |QID|1685| |R|Human|
 A Surena Caledon |C|Warlock| |QID|1688| |R|Human|
 
 T Continue to Stormwind |N|In Old Town at Limited Immunity (74.2, 47.38)| |Z|Stormwind City| |R|Human| |QID|6281|
@@ -231,6 +228,7 @@ A The Tome of Divinity (Part 7) |C|Paladin| |QID|1787| |R|Human|
 C The Tome of Divinity (Part 7) |N|Center of island in Stonecaire Lake in Elwynn Forest| |C|Paladin| |QID|1787| |R|Human|
 
 H Stormwind City
+T Elmore's Task |N|In the Dwarven District (51.7, 12.1)| |Z|Stormwind City| |QID|1097|
 T Mirror Lake |C|Mage| |QID|1861| |R|Human|
 T Snatch and Grab |C|Rogue| |QID|2206| |R|Human|
 T Surena Caledon |C|Warlock| |QID|1688| |R|Human|
@@ -244,7 +242,6 @@ T The Tome of Divinity (Part 8) |C|Paladin| |QID|1788| |R|Human|
 end)
 
 --[[
-T Elmore's Task |N|In the Dwarven District (51.7, 12.1)| |Z|Stormwind City| |QID|1097|
 A Stormpike's Delivery |QID|353|
 R Deeprun Tram
 A Deeprun Rat Roundup |N|At the Ironforge end of the tram| |QID|6661|
